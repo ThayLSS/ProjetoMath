@@ -1,3 +1,1 @@
-ProjetoMath
-
-Feito a partir de um calculo matematico!
+Projetos Feitos Em C
